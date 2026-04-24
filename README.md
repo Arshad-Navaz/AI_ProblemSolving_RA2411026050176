@@ -196,3 +196,4 @@ cd ../Problem11_GPSRouteFinder && pip install -r requirements.txt && streamlit r
 ---
 
 *Submitted for AI Problem Solving Assignment — April 2026*
+## Team Project - AI Problem Solving
