@@ -199,8 +199,8 @@ cd ../Problem11_GPSRouteFinder && pip install -r requirements.txt && streamlit r
 
 | Name            | Register Number |
 | --------------- | --------------- |
-| Mohamed Afzal F | RA2411026050150 |
-| Arshad Navaz    | RA2411025050176 |
+| Arshad Navaz    | RA2411026050150 |
+| Mohamed Afzal F | RA2411025050176 |
 
 ---
 
